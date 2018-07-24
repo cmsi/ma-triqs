@@ -18,7 +18,7 @@
         tar zcvf triqs-cthyb_$VERSION.orig.tar.gz triqs-cthyb_$VERSION
         rm -rf triqs-cthyb-$VERSION.tar.gz triqs-cthyb_$VERSION
 
-        VERSION=1.5
+        VERSION=1.4
         cd $HOME/vagrant/data/src
         wget -O triqs-dfttools-$VERSION.tar.gz https://github.com/TRIQS/dft_tools/archive/$VERSION.tar.gz
         tar zxvf triqs-dfttools-$VERSION.tar.gz
