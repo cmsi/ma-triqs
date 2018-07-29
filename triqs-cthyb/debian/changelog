@@ -1,3 +1,9 @@
+triqs-cthyb (1.4.2-3) unstable; urgency=low
+
+  * Enable test
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sun, 29 Jul 2018 13:58:43 +0000
+
 triqs-cthyb (1.4.2-2) unstable; urgency=low
 
   * Fixed python module path
