@@ -1,3 +1,9 @@
+triqs-hubbardi (20171122-2) unstable; urgency=low
+
+  * Enable tests
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sun, 29 Jul 2018 13:58:43 +0000
+
 triqs-hubbardi (20171122-1) unstable; urgency=low
 
   * Initial release for 20171122 (d919676f472bd5855751159bb91d1737ee9a46ea)
