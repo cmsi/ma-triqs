@@ -1,3 +1,10 @@
+triqs (1.4.2-3) unstable; urgency=low
+
+  * Fix test for i386
+  * Revert HDF5 version check using h5utils package
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Sun, 29 Jul 2018 21:31:12 +0900
+
 triqs (1.4.2-2) unstable; urgency=low
 
   * Fixed python module path
