@@ -3,7 +3,7 @@ Upstream-Name: triqs
 Source: <https://triqs.github.io>
 
 Files: *
-Copyright: 2011-2015, M. Ferrero and O. Parcollet
+Copyright: 2011-2022, The TRIQS collaboration
 License: GPL-3+
  TRIQS is free software: you can redistribute it and/or modify it under the
  terms of the GNU General Public License as published by the Free Software
